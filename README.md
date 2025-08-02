@@ -40,5 +40,5 @@ To run the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-project.git
+   git clone https://github.com/venkadesan-565/todo-list-project.git
    cd todo-list-project
